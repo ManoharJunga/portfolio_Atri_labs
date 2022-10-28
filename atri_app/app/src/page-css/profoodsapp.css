@@ -1,0 +1,275 @@
+.p-profoodsapp.Flex51 {
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.p-profoodsapp.Flex52 {
+display: flex;
+margin-left: 150px;
+align-items: center;
+width: ;
+height: 500px;
+}
+.p-profoodsapp.Flex53 {
+display: flex;
+margin-top: 50px;
+}
+.p-profoodsapp.Flex55 {
+display: flex;
+margin-top: 100px;
+margin-left: 150px;
+align-items: center;
+}
+.p-profoodsapp.Flex56 {
+display: flex;
+align-items: center;
+width: 1200px;
+height: 500px;
+margin-top: 30px;
+margin-left: 150px;
+}
+.p-profoodsapp.Flex57 {
+display: flex;
+margin-left: 150px;
+margin-top: 50px;
+width: 1200px;
+height: 500px;
+align-items: center;
+}
+.p-profoodsapp.TextBox60 {
+margin-top: 150px;
+margin-left: 150px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 50px;
+width: 500px;
+}
+.p-profoodsapp.TextBox61 {
+margin-left: 150px;
+margin-top: 20px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+color: #666666;
+}
+.p-profoodsapp.Image49 {
+margin-left: 100px;
+width: 1200px;
+height: 10px;
+margin-top: 100px;
+}
+.p-profoodsapp.TextBox59 {
+margin-top: 35px;
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 15px;
+padding-right: 15px;
+margin-left: 100px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-bottom: 40px;
+font-size: 25px;
+}
+.p-profoodsapp.Button4 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #ffffff;
+cursor: pointer;
+user-select: none;
+margin-right: 50px;
+font-family: IBM Plex Sans;
+}
+.p-profoodsapp.TextBox62 {
+margin-top: 250px;
+margin-left: 50px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-profoodsapp.TextBox63 {
+margin-top: 100px;
+text-align: center;
+font-family: IBM Plex Sans;
+font-weight: 400;
+margin-right: 100px;
+}
+.p-profoodsapp.Image47 {
+margin-top: 50px;
+height: ;
+box-sizing: content-box;
+width: 700px;
+position: relative;
+overflow: scroll;
+}
+.p-profoodsapp.TextBox64 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 30px;
+}
+.p-profoodsapp.Image48 {
+height: 400px;
+outline-style: ;
+background-color: ;
+background-clip: border-box;
+-webkit-background-clip: border-box;
+clear: none;
+overflow: visible;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-width: 3px;
+border-color: #000000;
+border-style: solid;
+margin-left: 200px;
+}
+.p-profoodsapp.Carousel3 {
+;
+}
+.p-profoodsapp.TextBox65 {
+margin-left: 100px;
+width: 500px;
+text-align: center;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #666666;
+}
+.p-profoodsapp.TextBox66 {
+margin-left: 200px;
+text-align: center;
+width: 500px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #666666;
+}
+.p-profoodsapp.Image50 {
+margin-left: 100px;
+width: ;
+height: 400px;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+border-width: 3px;
+border-style: solid;
+}
+@media screen and (max-width: 478px) {	.p-profoodsapp.Flex52 {margin-left: 70px;
+width: ;
+height: 100px;
+justify-content: center;
+align-items: flex-end;
+margin-top: 50px;
+}
+	.p-profoodsapp.Flex55 {margin-left: 50px;
+}
+	.p-profoodsapp.Flex56 {margin-left: 50px;
+width: 350px;
+height: 200px;
+}
+	.p-profoodsapp.TextBox60 {margin-top: 75px;
+margin-left: 40px;
+font-size: 20px;
+}
+	.p-profoodsapp.TextBox61 {margin-left: 40px;
+font-size: 10px;
+}
+	.p-profoodsapp.Image49 {width: 270px;
+}
+	.p-profoodsapp.TextBox59 {font-size: 20px;
+}
+	.p-profoodsapp.Button4 {font-size: 15px;
+}
+	.p-profoodsapp.TextBox63 {font-size: 8px;
+width: ;
+margin-top: 200px;
+}
+	.p-profoodsapp.Image47 {width: 120px;
+margin-bottom: 20px;
+}
+	.p-profoodsapp.TextBox64 {margin-left: ;
+font-size: 10px;
+}
+	.p-profoodsapp.Image48 {height: 150px;
+border-width: 1px;
+}
+	.p-profoodsapp.TextBox65 {margin-left: 50px;
+width: 250px;
+font-size: 10px;
+}
+}
+@media screen and (max-width: 767px) {	.p-profoodsapp.Flex57 {margin-left: 100px;
+}
+	.p-profoodsapp.TextBox66 {font-size: 15px;
+width: 300px;
+}
+	.p-profoodsapp.Image50 {height: 300px;
+}
+	.p-profoodsapp.Flex52 {margin-left: 70px;
+height: 300px;
+}
+	.p-profoodsapp.Flex55 {margin-left: 100px;
+margin-top: 50px;
+}
+	.p-profoodsapp.Flex56 {width: 600px;
+height: 350px;
+}
+	.p-profoodsapp.TextBox60 {font-size: 30px;
+width: 250px;
+margin-top: 100px;
+}
+	.p-profoodsapp.TextBox61 {font-size: 15px;
+}
+	.p-profoodsapp.Image49 {width: 550px;
+}
+	.p-profoodsapp.TextBox59 {font-size: 20px;
+}
+	.p-profoodsapp.TextBox63 {font-size: 10px;
+}
+	.p-profoodsapp.Image47 {width: 200px;
+margin-top: ;
+}
+	.p-profoodsapp.TextBox64 {margin-bottom: ;
+padding-bottom: ;
+}
+	.p-profoodsapp.Image48 {height: 300px;
+}
+	.p-profoodsapp.TextBox65 {font-size: 15px;
+}
+}
+@media screen and (max-width: 991px) {	.p-profoodsapp.Flex57 {width: 800px;
+}
+	.p-profoodsapp.TextBox66 {margin-left: ;
+}
+	.p-profoodsapp.Image50 {margin-right: 50px;
+}
+	.p-profoodsapp.Flex52 {margin-left: 100px;
+}
+	.p-profoodsapp.Flex56 {margin-left: 100px;
+width: 800px;
+}
+	.p-profoodsapp.TextBox60 {margin-left: 100px;
+}
+	.p-profoodsapp.TextBox61 {margin-left: 100px;
+}
+	.p-profoodsapp.Image49 {width: 800px;
+margin-left: 100px;
+}
+	.p-profoodsapp.Image47 {width: 400px;
+}
+	.p-profoodsapp.TextBox64 {margin-right: 100px;
+font-size: 20px;
+}
+	.p-profoodsapp.Image48 {margin-left: ;
+}
+}

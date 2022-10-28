@@ -1,0 +1,19 @@
+{
+  "port": 4005,
+  "pythonPort": 4007,
+  "publicDir": "dist/app",
+  "pages": {
+    "/": {
+      "name": "Home"
+    },
+    "/manoharjunga": {
+      "name": "manoharjunga"
+    },
+    "/profoodsapp": {
+      "name": "profoodsapp"
+    }
+  },
+  "publicUrlAssetMap": {
+    "/app-assets": "../assets"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "ac69290a-f575-44fa-a9ab-e1afa0bddb65": {
+    "name": "manoharjunga",
+    "route": "/manoharjunga"
+  },
+  "beb20b50-e907-4eb8-b1c2-b37bd976fe59": {
+    "name": "profoodsapp",
+    "route": "/profoodsapp"
+  }
+}
